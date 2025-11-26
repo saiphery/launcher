@@ -1,4 +1,4 @@
-# Navigation Launcher - Spúšťač pre VocalizerEX a iGo Nextgen
+# Navigation Launcher - Spúšťač pre VocalizerEX a iGo Nextgen # Navigation Launcher
 
 ## Čo táto aplikácia robí:
 - Spustí VocalizerEX a hneď potom iGo Nextgen
